@@ -7,4 +7,4 @@ git has a mutable index called stage.
 git has amutable index called stage.
 git tracks changes of files.
 
-createing a new branch is quick.
+createing a new branch is quick & simple.
