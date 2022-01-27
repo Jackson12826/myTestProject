@@ -8,3 +8,4 @@ git has amutable index called stage.
 git tracks changes of files.
 
 createing a new branch is quick.
+creating new branch feature1
